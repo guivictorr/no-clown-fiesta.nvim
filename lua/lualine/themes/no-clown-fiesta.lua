@@ -3,8 +3,8 @@
 local colors = {
 	none = "NONE",
 	fg = "#E1E1E1",
-	bg = "#0a0a0b",
-	alt_bg = '#191919',
+	bg = "#101010",
+	alt_bg = '#202020',
 	red = "#CC6666",
 }
 
